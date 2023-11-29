@@ -1,0 +1,9 @@
+label{
+    color: crimson;
+}
+legend{
+    color: rgba(255, 51, 0, 0.895);
+}
+input{
+    background-color: rgb(100, 103, 105);
+}
