@@ -1,0 +1,104 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    align-content: end;
+}
+
+.nav{
+  
+    height: 75px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:brown;
+}
+.brand{
+    
+    height: 75px;
+    width: 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: xx-large;
+    color: white;
+    
+
+}
+    .home
+    {
+        
+    height: 75px;
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+
+    }
+    .about{
+        
+    height: 75px;
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color:grey;
+     
+
+    }
+    .products{
+
+    height: 75px;
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: grey;
+    
+    text-align: end;
+
+    }
+
+    
+
+
+
+.search{
+    border: 2px solid white;
+    height:50px ;
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: antiquewhite;
+    color: grey;
+
+    
+}
+.sear{
+    border: 2px solid white;
+    height:50px ;
+    width: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+
+
+}
+.navi{
+    height: 75px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:purple;
+}
+.navig{
+    height: 75px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:aquamarine;
+}
+
+
